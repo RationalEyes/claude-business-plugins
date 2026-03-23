@@ -21,6 +21,10 @@ Add the marketplace first, then install this plugin:
 
 Or upload the plugin `.zip` directly: **Plugins → Manage Plugins → Upload Plugin → Approve**
 
+## Handbook
+
+Full documentation: [PDF](../docs/marketing-life-sciences-handbook.pdf) · [Markdown](../docs/marketing-life-sciences-handbook.md)
+
 ## Commands and Skills — How They Differ
 
 This plugin contains two types of capabilities: **commands** (prefixed with `_`) and **skills** (no prefix). They appear in the same list when you tap `+` in Cowork, but they work very differently:

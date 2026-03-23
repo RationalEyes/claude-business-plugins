@@ -8,9 +8,9 @@ A curated marketplace of plugins that bring regulatory compliance, domain expert
 
 ## Available Plugins
 
-| Plugin | Version | Industry | Capabilities |
-|--------|---------|----------|--------------|
-| [Marketing for Life Sciences](marketing-life-sciences/) | 1.0.0 | Pharma / Biotech / Medtech | MLR compliance, HCP vs. patient messaging, KOL strategy, congress marketing, FDA/EMA regulatory frameworks |
+| Plugin | Version | Industry | Handbook |
+|--------|---------|----------|----------|
+| [Marketing for Life Sciences](marketing-life-sciences/) | 1.0.0 | Pharma / Biotech / Medtech | [PDF](docs/marketing-life-sciences-handbook.pdf) · [Markdown](docs/marketing-life-sciences-handbook.md) |
 
 ## Add This Marketplace
 
@@ -48,13 +48,6 @@ In Cowork, both appear in the same list when you tap `+` and select a plugin. Th
 ## Important Disclaimer
 
 These plugins do not replace human review. There is no fully compliant AI running on autopilot in a regulated industry. These plugins act as a first-pass filter — they catch common errors so your compliance team is not wasting hours fixing generic AI output. They are a step toward making agentic AI more reliable in regulated environments.
-
-## Documentation
-
-Each plugin includes a comprehensive handbook:
-
-- [Marketing for Life Sciences — Handbook (PDF)](docs/marketing-life-sciences-handbook.pdf)
-- [Marketing for Life Sciences — Handbook (Markdown)](docs/marketing-life-sciences-handbook.md)
 
 ## Request a Plugin
 
