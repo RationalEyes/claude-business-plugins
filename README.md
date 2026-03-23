@@ -10,7 +10,7 @@ A curated marketplace of plugins that bring regulatory compliance, domain expert
 
 | Plugin | Version | Industry | Handbook |
 |--------|---------|----------|----------|
-| [Marketing for Life Sciences](marketing-life-sciences/) | 1.0.0 | Pharma / Biotech / Medtech | [PDF](docs/marketing-life-sciences-handbook.pdf) · [Markdown](docs/marketing-life-sciences-handbook.md) |
+| [Marketing for Life Sciences](marketing-life-sciences/) | 1.0.0 | Pharma / Biotech / Medtech | [PDF](docs/marketing-life-sciences/handbook.pdf) · [Markdown](docs/marketing-life-sciences/handbook.md) |
 
 ## Add This Marketplace
 

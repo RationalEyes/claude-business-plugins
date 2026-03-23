@@ -23,7 +23,7 @@ Or upload the plugin `.zip` directly: **Plugins → Manage Plugins → Upload Pl
 
 ## Handbook
 
-Full documentation: [PDF](../docs/marketing-life-sciences-handbook.pdf) · [Markdown](../docs/marketing-life-sciences-handbook.md)
+Full documentation: [PDF](../docs/marketing-life-sciences/handbook.pdf) · [Markdown](../docs/marketing-life-sciences/handbook.md)
 
 ## Commands and Skills — How They Differ
 
