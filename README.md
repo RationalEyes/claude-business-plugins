@@ -1,8 +1,8 @@
-# Claude Business Library
+# Claude Business Plugins Marketplace
 
 **Industry-specific AI plugin marketplace by [RationalEyes.ai](https://rationaleyes.ai)**
 
-<!-- Add hero image: ![Claude Business Library](assets/hero.png) -->
+<!-- Add hero image: ![Claude Business Plugins Marketplace](assets/hero.png) -->
 
 A curated marketplace of plugins that bring regulatory compliance, domain expertise, and specialized workflows to Claude. Each plugin hardcodes the rules of its industry into the AI — so it works within the boundaries of your business, not against them.
 
@@ -19,22 +19,22 @@ A curated marketplace of plugins that bring regulatory compliance, domain expert
 Add the marketplace, then browse and install plugins:
 
 ```bash
-/plugin marketplace add RationalEyes/claude-business-library
+/plugin marketplace add RationalEyes/claude-business-plugins
 ```
 
 Then install a plugin:
 
 ```bash
-/plugin install marketing-life-sciences@claude-business-library
+/plugin install marketing-life-sciences@claude-business-plugins
 ```
 
 ### Claude Cowork (Desktop)
 
 **Option A — Add as marketplace:**
-Plugins → Manage Plugins → Add marketplace from GitHub → enter `RationalEyes/claude-business-library` → browse and install plugins
+Plugins → Manage Plugins → Add marketplace from GitHub → enter `RationalEyes/claude-business-plugins` → browse and install plugins
 
 **Option B — Install a single plugin directly:**
-Download the plugin `.zip` from [Releases](https://github.com/RationalEyes/claude-business-library/releases) → Plugins → Manage Plugins → Upload Plugin → Approve
+Download the plugin `.zip` from [Releases](https://github.com/RationalEyes/claude-business-plugins/releases) → Plugins → Manage Plugins → Upload Plugin → Approve
 
 ## How Plugins Work
 
@@ -51,7 +51,7 @@ These plugins do not replace human review. There is no fully compliant AI runnin
 
 ## Request a Plugin
 
-Have a specific industry or workflow that needs a customized plugin? Open an [issue](https://github.com/RationalEyes/claude-business-library/issues) describing your use case.
+Have a specific industry or workflow that needs a customized plugin? Open an [issue](https://github.com/RationalEyes/claude-business-plugins/issues) describing your use case.
 
 ## Companion Resources
 

@@ -11,13 +11,13 @@ This plugin preserves all functionality from the base marketing plugin and adds 
 Add the marketplace first, then install this plugin:
 
 ```bash
-/plugin marketplace add RationalEyes/claude-business-library
-/plugin install marketing-life-sciences@claude-business-library
+/plugin marketplace add RationalEyes/claude-business-plugins
+/plugin install marketing-life-sciences@claude-business-plugins
 ```
 
 ### Claude Cowork (Desktop)
 
-**Plugins → Manage Plugins → Add marketplace from GitHub** → enter `RationalEyes/claude-business-library` → install Marketing for Life Sciences
+**Plugins → Manage Plugins → Add marketplace from GitHub** → enter `RationalEyes/claude-business-plugins` → install Marketing for Life Sciences
 
 Or upload the plugin `.zip` directly: **Plugins → Manage Plugins → Upload Plugin → Approve**
 
