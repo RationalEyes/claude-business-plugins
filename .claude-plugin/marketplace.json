@@ -1,0 +1,24 @@
+{
+  "name": "claude-business-library",
+  "owner": {
+    "name": "RationalEyes.ai",
+    "email": "contact@rationaleyes.ai"
+  },
+  "metadata": {
+    "description": "Industry-specific and subject-specific AI plugins for regulated and specialized business domains"
+  },
+  "plugins": [
+    {
+      "name": "marketing-life-sciences",
+      "source": "./marketing-life-sciences",
+      "description": "Life sciences marketing plugin for pharma, biotech, and medtech teams. MLR compliance, HCP vs. patient messaging, KOL strategy, congress marketing, and FDA/EMA regulatory frameworks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "RationalEyes.ai"
+      },
+      "category": "marketing",
+      "tags": ["life-sciences", "pharma", "compliance", "mlr", "regulatory", "marketing"],
+      "license": "Apache-2.0"
+    }
+  ]
+}

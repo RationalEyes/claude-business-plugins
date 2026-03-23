@@ -1,0 +1,8 @@
+{
+  "name": "marketing-life-sciences",
+  "version": "1.0.0",
+  "description": "Life sciences adaptation of the marketing plugin for pharma, biotech, and medtech teams. Adds regulatory compliance (FDA/EMA), MLR review workflows, HCP engagement, KOL strategy, congress marketing, and pharma-specific KPIs on top of the full general marketing toolkit.",
+  "author": {
+    "name": "RationalEyes.ai"
+  }
+}
